@@ -1,0 +1,94 @@
+-
+    name : Ubic
+    github : berekuk/Ubic
+    transferable : unknown
+    languages:
+        - Perl
+        - Shell
+        
+-
+    name : RoadArchitect
+    github : MicroGSD/RoadArchitect
+    transferable : unknown
+    languages:
+        - C\#
+        - HTML
+        - ShaderLab
+
+-
+    name : Metro Bootstrap
+    github : TalksLab/metro-bootstrap
+    transferable : unknown
+    languages:
+        - Less
+        - Javascript
+
+-
+    name : NG Polymer Elements
+    github : GabiAxel/ng-polymer-elements
+    transferable : unknown
+    languages:
+        - Javascript
+        
+-
+    name : JQuery Tablesort
+    github : kylefox/jquery-tablesort
+    transferable : unknown
+    languages:
+        - HTML
+        - Javascript
+        
+-
+    name : Holy Build Box
+    github : phusion/holy-build-box
+    transferable : unknown
+    languages:
+        - Shell
+        - Perl
+        - Python
+        - Makefile
+        
+-
+    name : Grunt Phantomas
+    github : stefanjudis/grunt-phantomas
+    transferable : unknown
+    languages:
+        - Javascript
+        - CSS
+        - Smarty
+        
+-
+    name : FSNotify
+    github : fsnotify/fsnotify
+    transferable : unknown
+    languages:
+        - Go
+        
+        
+-
+    name : Data Science Stack CookieCutter
+    github : jgoerner/data-science-stack-cookiecutter
+    transferable : unknown
+    languages:
+        - Jupyter Notebook
+        - Shell
+        - Python
+        - Dockerfile
+        
+-
+    name : Combine PDF
+    github : boazsegev/combine_pdf
+    transferable : unknown
+    languages:
+        - Ruby
+        
+-
+    name : Babun
+    github : babun/babun
+    transferable : unknown
+    languages:
+        - Shell
+        - Groovy
+        - Batchfile
+        - Vim Script
+        - Visual Basic .NET
