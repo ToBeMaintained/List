@@ -36,9 +36,6 @@ body:
             
             label : Transferable
             description : Can the repository be tranferred to another user / organization account?
-            options:
-                - Yes
-                - No
         
         validations:
             required : true
