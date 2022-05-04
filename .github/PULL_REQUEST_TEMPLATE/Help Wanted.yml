@@ -1,0 +1,27 @@
+
+name : Add Repository
+description : Submit your repository that needs a maintainer.
+
+labels:
+    - Help Wanted
+
+body:
+    
+    -
+        type : input
+        label : Repository
+        description : The link to the repository.
+        placeholder : https://github.com/<User>/<Repository>
+    
+    -
+        type : input
+        label : Language
+        description : Programming languages used in the repository.
+        placeholder : JS , CSS
+        
+    -
+        type : checkboxes
+        label : Transferable
+        description : Can the repository be tranferred to another user / organization account?
+            - Yes
+            - No
