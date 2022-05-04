@@ -14,7 +14,7 @@ body:
             
             label : Repository
             description : The link to the repository.
-            placeholder : https://github.com/\<User\>/\<Repository\>
+            placeholder : https://github.com/User/Repository
             
             
         validations:
