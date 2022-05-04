@@ -9,19 +9,35 @@ body:
     
     -
         type : input
-        label : Repository
-        description : The link to the repository.
-        placeholder : https://github.com/<User>/<Repository>
+        attributes:
+            
+            label : Repository
+            description : The link to the repository.
+            placeholder : https://github.com/<User>/<Repository>
+            
+            
+        validations:
+            required : true
     
     -
         type : input
-        label : Language
-        description : Programming languages used in the repository.
-        placeholder : JS , CSS
+        attributes:
+            
+            label : Language
+            description : Programming languages used in the repository.
+            placeholder : JS , CSS
+            
+        validations:
+            required : true
         
     -
         type : checkboxes
-        label : Transferable
-        description : Can the repository be tranferred to another user / organization account?
-            - Yes
-            - No
+        attributes:
+            
+            label : Transferable
+            description : Can the repository be tranferred to another user / organization account?
+                - Yes
+                - No
+        
+        validations:
+            required : true
