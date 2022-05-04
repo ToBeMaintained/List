@@ -1,6 +1,7 @@
 
 name : Add Repository
 description : Submit your repository that needs a maintainer.
+title : Repository Submission
 
 labels:
     - Help Wanted
