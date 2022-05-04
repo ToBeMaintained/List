@@ -24,5 +24,5 @@
 <!----------------------------------------------------------------------------->
 
 [Languages]: Lists/Languages.md
-[Submit]: Documentation/Submit.md
+[Submit]: https://github.com/ToBeMaintained/List/issues/new?assignees=&labels=Help+Wanted&template=Help+Wanted.yml&title=Repository+Submission
 [All]: Lists/All.md
